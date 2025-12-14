@@ -1,1 +1,2 @@
-# git-version-control-practice
+# Практическая работа по дисциплине.
+Демонстрация работы с Git и GitHub.
